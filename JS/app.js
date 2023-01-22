@@ -11,7 +11,7 @@ likeBtn1.addEventListener("click", () => {
   } else {
     like_clicked_1 = false;
     like_Icon1.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count1.textContent--;
+    like_count1.textContent++;
   }
 });
 //likebutton2
@@ -27,7 +27,7 @@ likeBtn2.addEventListener("click", () => {
   } else {
     like_clicked_2 = false;
     like_Icon2.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count2.textContent--;
+    like_count2.textContent++;
   }
 });
 //likebutton3
@@ -43,7 +43,7 @@ likeBtn3.addEventListener("click", () => {
   } else {
     like_clicked_3 = false;
     like_Icon3.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count3.textContent--;
+    like_count3.textContent++;
   }
 });
 //likebutton4
@@ -59,7 +59,7 @@ likeBtn4.addEventListener("click", () => {
   } else {
     like_clicked_4 = false;
     like_Icon4.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count4.textContent--;
+    like_count4.textContent++;
   }
 });
 //likebutton5
@@ -75,7 +75,7 @@ likeBtn5.addEventListener("click", () => {
   } else {
     like_clicked_5 = false;
     like_Icon5.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count5.textContent--;
+    like_count5.textContent++;
   }
 });
 //likebutton6
@@ -91,7 +91,7 @@ likeBtn6.addEventListener("click", () => {
   } else {
     like_clicked_6 = false;
     like_Icon6.innerHTML = `<i class="far fa-thumbs-up"></i>`;
-    like_count6.textContent--;
+    like_count6.textContent++;
   }
 });
 //sadbutton1
@@ -107,7 +107,7 @@ sadBtn1.addEventListener("click", () => {
   } else {
     sad_clicked_1 = false;
     sad_Icon1.innerHTML = `<i class="fa-sharp fa-solid fa-face-sad-tear"></i>`;
-    sad_count1.textContent--;
+    sad_count1.textContent++;
   }
 });
 //sadbutton2
@@ -123,7 +123,7 @@ sadBtn2.addEventListener("click", () => {
   } else {
     sad_clicked_2 = false;
     sad_Icon2.innerHTML = `<i class="fa-solid fa-face-sad-tear">`;
-    sad_count2.textContent--;
+    sad_count2.textContent++;
   }
 });
 //sadbutton3
@@ -139,7 +139,7 @@ sadBtn3.addEventListener("click", () => {
   } else {
     sad_clicked_3 = false;
     sad_Icon3.innerHTML = `<i class="fa-solid fa-face-sad-tear">`;
-    sad_count3.textContent--;
+    sad_count3.textContent++;
   }
 });
 //sadbutton4
@@ -155,7 +155,7 @@ sadBtn4.addEventListener("click", () => {
   } else {
     sad_clicked_4 = false;
     sad_Icon4.innerHTML = `<i class="fa-solid fa-face-sad-tear">`;
-    sad_count4.textContent--;
+    sad_count4.textContent++;
   }
 });
 //sadbutton5
@@ -171,7 +171,7 @@ sadBtn5.addEventListener("click", () => {
   } else {
     sad_clicked_5 = false;
     sad_Icon5.innerHTML = `<i class="fa-solid fa-face-sad-tear">`;
-    sad_count5.textContent--;
+    sad_count5.textContent++;
   }
 });
 //sadbutton6
@@ -187,7 +187,7 @@ sadBtn6.addEventListener("click", () => {
   } else {
     sad_clicked_6 = false;
     sad_Icon6.innerHTML = `<i class="fa-solid fa-face-sad-tear">`;
-    sad_count6.textContent--;
+    sad_count6.textContent++;
   }
 });
 
